@@ -1,0 +1,60 @@
+body {
+  font-family: "Ink free", monospace;
+  min-height: 700px;
+  background-image: url("https://investidorlucrativo.com.br/wp-content/uploads/2019/05/bola-de-cristal-825x542.jpg");
+  background-color: #000000;
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 50vh;
+  margin-top: 0%;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 5px;
+  font-size: 70px;
+  text-shadow:#000 1px -1px 2px, #000 -1px 1px 2px, #000 1px 1px 2px, #000 -1px -1px 2px
+}
+
+.page-subtitle {
+  color: white;
+  margin-top: 150px;
+  font-weight: bold;
+  font-size: 20px;
+  text-shadow:#000 1px -1px 2px, #000 -1px 1px 2px, #000 1px 1px 2px, #000 -1px -1px 2px;
+}
+
+.page-logo {
+  width: 200px;
+}
+
+}
+
+input {
+  margin: 4px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: #ffffff;
+}
+
+.resultado {
+  color: #87ceeb;
+  font-size: 20px;
+  text-align: center;
+  margin-top: 35px;
+  font-weight: bold;
+  text-shadow:#000 1px -1px 2px, #000 -1px 1px 2px, #000 1px 1px 2px, #000 -1px -1px 2px;
+  
+}
